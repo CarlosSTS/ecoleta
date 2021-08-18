@@ -7,7 +7,7 @@
 O app contém os seguintes módulos
 
 * uma tela de login por UF e cidade.
-* uma tela de dashboard com os pontos de  coletas já cadastrados.
+* uma tela de dashboard com os pontos de coletas já cadastrados.
 * uma tela de detalhe que trás as informações dos pontos de coletas e contato.
 
 ## Páginas do app
@@ -27,7 +27,7 @@ RODANDO O PROJETO MOBILE
 ## BACKEND
 RODANDO O PROJETO NO BACKEND
 * yarn install => para instalar Dependências do projeto
-* yarn start =>  para inicializar o projeto
+* yarn start => para inicializar o projeto
 
 ## Feito por Carlos Ferreira
 * [Github](https://www.github.com/CarlosSTS)
