@@ -15,15 +15,15 @@ O app contém os seguintes módulos
 
 <table>
   <tr>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fecoleta%2Flogin.png?alt=media&token=0317a214-ca53-4bfa-a625-0aa490406fc1" alt="Foto do App login" width="360" /></td>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fecoleta%2Fpermission.png?alt=media&token=212baa92-cc5d-4390-a579-1bb56b2f7e9d" alt="Foto do App dar permissão" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/ecoleta/login.png" alt="Foto do App login" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/ecoleta/permission.png" alt="Foto do App dar permissão" width="360" /></td>
 </tr>
 </table>
 
 <table>
   <tr>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fecoleta%2Fdashboard.png?alt=media&token=917b44d4-3633-4629-9da8-834b31912414" alt="Foto do App dashboard" width="360" /></td>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fecoleta%2Fdetail.png?alt=media&token=ccf22b81-356a-411e-849d-894b34916cb3" alt="Foto do App detalhe" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/ecoleta/dashboard.png" alt="Foto do App dashboard" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/ecoleta/detail.png" alt="Foto do App detalhe" width="360" /></td>
 </tr>
 </table>
 
@@ -47,5 +47,5 @@ RODANDO O PROJETO NO BACKEND
 ## Feito por Carlos Ferreira
 
 - [Github](https://www.github.com/CarlosSTS)
-- [Email](mailto://carlossts826@gmail.com)
+- [Email](mailto://carlossts.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/carlos-ferreira-4b2ba219a/)
